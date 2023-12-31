@@ -18,11 +18,21 @@ This is a REST API for a Pizza delivery service built for fun and learning with 
 | *GET* | ```/user/{user_id}/order/{order_id}/``` | _Get user's specific order_|
 | *GET* | ```/docs/``` | _View API documentation_|_All users_|
 
-## How to run the Project
-- Install Postgreql
-- Install Python
-- Git clone the project with ``` git clone https://github.com/mohamadSaleh82/Food-Delivery-API.git```
-- Create your virtualenv with `Pipenv` or `virtualenv` and activate it.
-- Install the requirements with ``` pip install -r requirements.txt ```
-- Create you database with `python manage.py runserver`
-- Finally run the API
+# Getting Started 🚀
+
+## How to Run the Application
+
+1. Clone or download the project to your local machine.
+2. Change directory to the "online-shop-django" folder.
+3. Ensure that you have Python 3, pip, and virtualenv installed on your machine.
+4. Create a virtual environment using the following command:
+   - For Mac and Linux: `python3 -m venv venv`
+   - For Windows: `python -m venv venv`
+5. Activate the virtual environment:
+   - For Mac and Linux: `source venv/bin/activate`
+   - For Windows: `venv\scripts\activate`
+6. Install the application requirements by running: `pip install -r requirements.txt`
+7. Migrate the database by executing: `python manage.py migrate`
+8. Start the server: `python manage.py runserver`
+9. You should now be able to access the application by visiting: [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
+10. Finally run the API
