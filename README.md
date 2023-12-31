@@ -1,4 +1,4 @@
-# Food Delivery API with FastAPI, SQLAlchemy, and PostgreSQL
+# Food Delivery API with FastAPI and PostgreSQL
 
 ## Overview 🍕
 
