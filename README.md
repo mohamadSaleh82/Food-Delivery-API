@@ -24,6 +24,20 @@ Here are the key routes that power the functionality of this API:
 | GET    | `/user/{user_id}/order/{order_id}/`    | Get user's specific order           | All users     |
 | GET    | `/docs/`                               | View API documentation             | All users     |
 
+## About BLAZAR Token Django 🔥
+
+Enhance the security and authentication of your Food Delivery API with BLAZAR Token Django. BLAZAR Token Django is a powerful authentication solution that integrates seamlessly with Django projects, providing a secure and efficient way to manage user authentication.
+
+### Key Features:
+
+- **JWT (JSON Web Token) Integration:** BLAZAR Token Django uses JWTs to secure user authentication, providing a stateless and scalable solution.
+
+- **User Authentication and Authorization:** Easily manage user authentication and authorization with BLAZAR Token Django, ensuring that only authorized users can access protected routes.
+
+- **Token Refresh Mechanism:** BLAZAR Token Django includes a token refresh mechanism, allowing users to obtain a new access token without requiring reauthentication.
+
+- **Enhanced Security:** With BLAZAR Token Django, your API benefits from enhanced security measures, protecting against common authentication vulnerabilities.
+
 
 # Getting Started 🚀
 
