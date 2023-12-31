@@ -36,3 +36,28 @@ This is a REST API for a Pizza delivery service built for fun and learning with 
 8. Start the server: `python manage.py runserver`
 9. You should now be able to access the application by visiting: [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
 10. Finally run the API
+
+
+Don't forget to star this repository 🌟 if you find it useful!
+
+## Contributions Welcome! 🙌
+
+We invite contributions from the open-source community to enhance this Django-powered Online Store. Fork the repository, create issues, and submit pull requests. Together, we can elevate online retail solutions.
+
+Thank you for choosing our Online Store project. We hope it serves your business well! For questions or feedback, please don't hesitate to reach out.
+
+## How to Contribute
+
+I welcome contributions to enhance and customize this project. If you would like to contribute, please follow these steps:
+
+1. Fork the repository on GitHub.
+2. Create a new branch with a descriptive name for your feature or bug fix.
+3. Make the necessary changes in your branch.
+4. Test your changes thoroughly.
+5. Commit your changes and push them to your forked repository.
+6. Submit a pull request, clearly describing the changes you have made.
+
+## App Preview
+
+
+🌐 Visit our [GitHub Repository](https://github.com/mohamadSaleh82/Food-Delivery-API)
